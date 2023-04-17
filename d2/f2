@@ -1,0 +1,9 @@
+ls
+ls $HOME
+ls AFNI_data6/afni
+ls AFNI_data6/afni AFNI_data6/FT_analysis/FT ~
+
+ls -al
+ls -ltr
+ls -ltr ~
+ls -lSr dir.with.big.files
